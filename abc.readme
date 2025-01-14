@@ -1,1 +1,3 @@
 echo " my first line" >>abc.readme
+"first integer number" 
+"my second number" 
